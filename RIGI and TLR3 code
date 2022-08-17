@@ -1,0 +1,4 @@
+# created by Marissa L. Miller
+
+C=zeros(1,53);
+C(1)=0; #dsRNA
